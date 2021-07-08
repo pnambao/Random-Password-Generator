@@ -10,7 +10,7 @@ Based off of the users choices,a password with randomized characters is outputed
 
 Here is a link to the deployed website: 
 
-This is an example image of the page: 
+This is an example image of the page: [RandomPasswordGenerator](https://pnambao.github.io/Random-Password-Generator/)
 
 ![picture](./Assets/03-javascript-homework-demo.png)
 
