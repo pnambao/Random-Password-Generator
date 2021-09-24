@@ -1,18 +1,20 @@
 # Random-Password-Generator
-I modified some starter code for a password generator that helps a user create a random password.
+I modified some starter code for a password generator that helps a user create a randomized password.
 
 ## Description 
-The random password application is meant to generate a random password based of of certain criteria chosen by the user.
-When the user opens the application, they are presented with a page that has 'Generate Password' button.
-Once the button is selected, the user is asked for the prefered length of their password in numerical form. This length must be between 8 and 128 characters.
+The random password application is meant to generate a random password based on certain criteria chosen by the user.
+When the user opens the application, they are presented with a page that has a 'Generate Password' button.
+Once the button is selected, the user is asked for the prefered length of their password in numerical form. 
+This length must be between 8 and 128 characters.
 The user is then asked if they would like lowercase letters, uppercase letters, numbers and special characters in their password.
 Based off of the users choices,a password with randomized characters is outputed. 
+The user has the option to copy the password to their clipboard once generated.
 
-Here is a link to the deployed website: 
+Here is a link to the deployed website: [RandomPasswordGenerator](https://pnambao.github.io/Random-Password-Generator/)
 
-This is an example image of the page: [RandomPasswordGenerator](https://pnambao.github.io/Random-Password-Generator/)
+This is an example image of the page: 
 
-![picture](./Assets/03-javascript-homework-demo.png)
+![picture](./Assets/password.png)
 
 
 ## Credits
